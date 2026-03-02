@@ -32,7 +32,7 @@ h2{
     flex-wrap: wrap;
     gap: 10px;
     align-items: stretch;
-    margin-left: 100px;
+    margin-left: 300px;
     margin-bottom: 40px;
 }
 .container{
@@ -103,6 +103,7 @@ button:hover{
     text-shadow: 2px 2px 5px #706b6b
 
 }
+
 
 
 
